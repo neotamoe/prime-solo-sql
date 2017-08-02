@@ -1,3 +1,12 @@
+# SQL Queries
+This assignment was *optional* for students to complete in order to further SQL query skills.  I used Postico to write and 
+test SQL queries to get the specified data from the database.  My queries are noted in the *solution.sql* file.  This assignment
+was done in week 3 of in classroom instruction at Prime (week 9 of 20 total weeks in the program).  
+
+
+
+
+# Original Assignment Instructions:
 In this challenge, we’re going to practice performing SQL queries. This should help solidify some concepts that were covered during lecture.
 
 # Assumptions
